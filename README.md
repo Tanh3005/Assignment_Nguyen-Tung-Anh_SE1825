@@ -67,7 +67,7 @@ VALUES
     (1, 'Nguyen Van A', 'nguyenvana@gmail.com'),
     (2, 'Tran Thi B', 'tranthib@gmail.com'),
     (3, 'Le Van C', 'levanc@gmail.com');
-go
+go   
 
 INSERT INTO MonHoc (MaMonHoc, TenMonHoc, SoTinChi)
 VALUES 
